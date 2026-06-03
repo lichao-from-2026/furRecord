@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "pencil": {
+      "command": "/Applications/Pencil.app/Contents/Resources/app.asar.unpacked/out/mcp-server-darwin-x64",
+      "args": ["--app", "desktop"],
+      "env": {},
+      "type": "stdio"
+    }
+  }
+}
